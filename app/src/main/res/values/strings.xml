@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Waterfall</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Menu label to fetch updated weather info from the server -->
+    <string name="action_refresh" translatable="false">Refresh</string>
 </resources>
